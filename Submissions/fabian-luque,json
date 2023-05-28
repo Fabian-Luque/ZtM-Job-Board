@@ -1,0 +1,16 @@
+{
+  "name": "Fabian Ignacio Luque Hormazabal",
+  "img": "https://i.imgur.com/ItrHzOW.jpg",
+  "email": "fabianluque2014@gmail.com",
+  "links": {
+    "website": "[YOUR_WEBSITE_URL]",
+    "linkedin": "https://www.linkedin.com/in/fabian-luque",
+    "github": "https://github.com/Fabian-Luque"
+  },
+  "jobTitle": "Sr Software Engineer",
+  "location": {
+    "city": "Temuco",
+    "state": "Araucania",
+    "country": "Chile"
+  }
+}
